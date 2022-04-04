@@ -1,4 +1,6 @@
 # Bikesharing
+#### Link
+https://public.tableau.com/app/profile/stephanie.leonard2724
 ## Purpose
 In this module, we were given the following scenario: my friend Kate and I went to NYC for a week and loved using Citi bike to reach our various destinations in the city. We decided we'd like to introduce it in our hometown of Des Moines, Iowa. To do this, we have to analyze the citi bike data in New York to see how we might introduce it sucessfully in Des Moines.
 ## Results
